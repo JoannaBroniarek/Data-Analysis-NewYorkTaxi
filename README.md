@@ -1,7 +1,7 @@
 # How do Taxis move in NYC?
 Joanna Broniarek, Davide Facchinelli, Eltaj Babanli
 
-![alt text](https://www.brickunderground.com/sites/default/files/styles/blog_primary_image/public/blog/images/4859177053_c3fb190917_o.jpg "Logo Title Text 1")
+![alt text](https://freetoursbyfoot.com/wp-content/uploads/2013/11/New-York-Taxi.jpg "Logo Title Text 1")
 
 **This project contains the analysis of Taxis in NYC in 2018**. The aim was to answer to some specific research questions (RQs) that may help Taxi drivers in planning their movements throughout the city and the Taxi's users to have hints about the convenience of enjoying this service.
 
