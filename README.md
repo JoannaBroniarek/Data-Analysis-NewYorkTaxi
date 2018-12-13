@@ -5,7 +5,7 @@ Joanna Broniarek, Davide Facchinelli, Eltaj Babanli
 
 **This project contains the analysis of Taxis in NYC in 2018**. The aim was to answer to some specific research questions (RQs) that may help Taxi drivers in planning their movements throughout the city and the Taxi's users to have hints about the convenience of enjoying this service.
 
-The analysis was based on the open data of Taxi's trips in NYC. In order to answer to the RQs we took into account the data related to Yellow cab for the year 2018. **Source: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml **
+The analysis was based on the open data of Taxi's trips in NYC. In order to answer to the RQs we took into account the data related to Yellow cab for the year 2018. **Source: http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml**
 
 ## Exploratory Data Analysis:
 + [RQ1] **In what period of the year Taxis are used more?**
